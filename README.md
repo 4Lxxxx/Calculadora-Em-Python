@@ -1,7 +1,7 @@
-# Calculadora Dinamica
+# Calculadora Em Python
 
-### 🌏・Uma simples calculadora dinamica feita javascript por mim.
+### 🌏・Calculadora em python, feita por mim.
 
 ## 👨‍💻・Linguagens Utilizada:
 
-・ [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&labelColor=000000&logo=javascript&logoColor=yellow&link=https://www.javascript.com/)](https://www.javascript.com/)
+・ [![forthebadge](https://img.shields.io/badge/python%20-ADFF2F.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
